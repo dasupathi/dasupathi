@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
-- 😎 My First Project [ntlist.ccbp.tech](ntlist.ccbp.tech)
+- 😎 My First Project [ntlist.ccbp.tech](https://ntlist.ccbp.tech/)
 
 - 👨‍💻 All of my projects are available at [My PortFolio](myportfolio.ccbp.tech)
 
