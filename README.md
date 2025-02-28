@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekha2351&label=Profile%20views&color=0e75b6&style=flat" alt="surekha2351" /> </p>
 
-- 🔭 Mini Project > (ntspecific.ccbp.tech)
+- 🔭 Mini Project > [ntspecific.ccbp.tech](ntspecific.ccbp.tech)
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
-- 😎 My First Project [Food Munch🍕](ntlist.ccbp.tech)
+- 😎 My First Project [ntlist.ccbp.tech](ntlist.ccbp.tech)
 
 - 👨‍💻 All of my projects are available at [My PortFolio](myportfolio.ccbp.tech)
 
@@ -18,7 +18,7 @@
 - 📫 How to reach me **laxmilaxmi0362@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ij37YH7-E-C7D4r9plOIHqtROZm-P3MF/view)
--  <a href="https://www.youtube.com/@Failures_to_fortunes" >▶️My Youtube Channel</a>
+-  // <a href="https://www.youtube.com/@Failures_to_fortunes" >▶️My Youtube Channel</a> 
 
 - ⚡ Fun fact **I am Light-Hearted💞**
 
