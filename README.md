@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, PYTHON, JAVASCRIPT, SQL, ReactJS, MongoDB, Bootstrap, NodeJS**
 
-- 📫 How to reach me **yarrabattisurekha3260@gmail.com**
+- 📫 How to reach me **laxmilaxmi0362@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yjNIzBQPjd8gkSs1pjNEnz82WXcwEPjp/view?usp=share_link)
 -  <a href="https://www.youtube.com/@Failures_to_fortunes" >▶️My Youtube Channel</a>
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me ☎️:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/surekha-yerrabatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surekha yerrabatti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laxmi-dasupathi-a1ab30247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surekha yerrabatti" height="30" width="40" /></a>
 <a href="https://instagram.com/surekha_yerrabatti2351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surekha_yerrabatti2351" height="30" width="40" /></a>
 </p>
 <br/>
