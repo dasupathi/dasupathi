@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekha2351&label=Profile%20views&color=0e75b6&style=flat" alt="surekha2351" /> </p>
 
-- 🔭 Mini Project > [Rock-Paper-Scissors](Rock-Paper-Scissors)
+- 🔭 Mini Project > [Rock-Paper-Scissors](https://github.com/dasupathi/Rock-Paper-Scissors)
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
