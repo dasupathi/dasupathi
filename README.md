@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekha2351&label=Profile%20views&color=0e75b6&style=flat" alt="surekha2351" /> </p>
 
-- 🔭 Mini Project > [Insta-Share(Mini-Project)](https://github.com/surekha2351/Insta-Share-Mini-Project.git)
+- 🔭 Mini Project > [Insta-Share(Mini-Project)](ntspecific.ccbp.tech)
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
-- 😎 My First Project [Food Munch🍕](surekha10.ccbp.tech)
+- 😎 My First Project [Food Munch🍕](ntlist.ccbp.tech)
 
-- 👨‍💻 All of my projects are available at [My PortFolio](myportfolio5.ccbp.tech)
+- 👨‍💻 All of my projects are available at [My PortFolio](myportfolio.ccbp.tech)
 
 - 💬 Ask me about **HTML, CSS, PYTHON, JAVASCRIPT, SQL, ReactJS, MongoDB, Bootstrap, NodeJS**
 
