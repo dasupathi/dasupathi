@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekha2351&label=Profile%20views&color=0e75b6&style=flat" alt="surekha2351" /> </p>
 
-- 🔭 Mini Project > [Insta-Share(Mini-Project)](ntspecific.ccbp.tech)
+- 🔭 Mini Project > (ntspecific.ccbp.tech)
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
