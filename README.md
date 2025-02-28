@@ -15,12 +15,13 @@
 
 - 💬 Ask me about **HTML, CSS, PYTHON, JAVASCRIPT, SQL, ReactJS, MongoDB, Bootstrap, NodeJS**
 
-- 📫 How to reach me **laxmilaxmi0362@gmail.com**
+- 📫 How to reach me **yarrabattisurekha3260@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ij37YH7-E-C7D4r9plOIHqtROZm-P3MF/view)
--  /* <a href="https://www.youtube.com/@Failures_to_fortunes" >▶️My Youtube Channel</a> */
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yjNIzBQPjd8gkSs1pjNEnz82WXcwEPjp/view?usp=share_link)
+-  <a href="https://www.youtube.com/@Failures_to_fortunes" >▶️My Youtube Channel</a>
 
 - ⚡ Fun fact **I am Light-Hearted💞**
+
 <h3 align="left">Connect with me ☎️:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/surekha-yerrabatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surekha yerrabatti" height="30" width="40" /></a>
@@ -28,5 +29,4 @@
 </p>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi0362&show_icons=true&locale=en&layout=compact" alt="laxmi0362" /></p> 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surekha2351&show_icons=true&locale=en&layout=compact" alt="surekha2351" /></p>
