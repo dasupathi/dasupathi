@@ -18,7 +18,6 @@
 - 📫 How to reach me **laxmilaxmi0362@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ij37YH7-E-C7D4r9plOIHqtROZm-P3MF/view)
--  // <a href="https://www.youtube.com/@Failures_to_fortunes" >▶️My Youtube Channel</a> 
 
 - ⚡ Fun fact **I am Light-Hearted💞**
 
